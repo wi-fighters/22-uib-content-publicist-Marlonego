@@ -1,0 +1,26 @@
+body {
+    background-color: chocolate;
+
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: rgb(180, 204, 182);
+}
+
+a:hover {
+
+    color: rgb(5, 47, 187);
+    opacity: 0.7;
+}
+
+li {
+    list-style: none;
+}
+
+title {
+    background-color: antiquewhite;
+}
